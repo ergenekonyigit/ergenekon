@@ -15,7 +15,7 @@ let options = {
 let data = {
   'name': chalk.white('Ergenekon Yiğit /'),
   'handle': chalk.cyan('ergenekonyigit'),
-  'work': chalk.white('Software Engineer at Pisano'),
+  'work': chalk.white('Software Engineer at Trendyol'),
   'twitter': chalk.cyan('https://twitter.com/ergenekonyigit'),
   'github': chalk.cyan('https://github.com/ergenekonyigit'),
   'linkedin': chalk.cyan('https://linkedin.com/in/ergenekonyigit'),
